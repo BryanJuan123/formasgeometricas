@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="384.13284mm"
+   height="331.57974mm"
+   viewBox="0 0 384.13284 331.57974"
    version="1.1"
    id="svg1"
    sodipodi:docname="atividade02.svg"
@@ -26,8 +26,8 @@
      showgrid="true"
      showguides="true"
      inkscape:zoom="0.31685387"
-     inkscape:cx="396.08163"
-     inkscape:cy="257.21636"
+     inkscape:cx="1112.5002"
+     inkscape:cy="812.67745"
      inkscape:window-width="1366"
      inkscape:window-height="705"
      inkscape:window-x="-8"
@@ -37,8 +37,8 @@
     <inkscape:grid
        id="grid1"
        units="mm"
-       originx="0"
-       originy="0"
+       originx="189.63872"
+       originy="146.93876"
        spacingx="0.99999998"
        spacingy="1"
        empcolor="#0099e5"
@@ -52,16 +52,17 @@
   <defs
      id="defs1">
     <rect
-       x="226.77166"
+       x="226.77167"
        y="415.74802"
        width="113.38583"
-       height="188.97637"
+       height="188.97636"
        id="rect2" />
   </defs>
   <g
      inkscape:label="Camada 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(189.63872,146.93875)">
     <rect
        style="fill:#00ff00;stroke-width:0.264583"
        id="rect1"
@@ -79,7 +80,7 @@
        xml:space="preserve"
        transform="scale(0.26458333)"
        id="text1"
-       style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect2);fill:#28170b" />
+       style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect2);display:inline;fill:#28170b" />
     <path
        sodipodi:type="star"
        style="fill:#ff0000;stroke-width:0.264583"
@@ -369,7 +370,7 @@
        d="m -65.793187,-39.299072 a 5.314115,5.314115 0 0 0 -5.31389,5.31389 5.314115,5.314115 0 0 0 5.31389,5.31389 5.314115,5.314115 0 0 0 5.31441,-5.31389 5.314115,5.314115 0 0 0 -5.31441,-5.31389 z m -28.75328,1.88258 a 5.2595,5.314115 0 0 0 -5.25963,5.31388 5.2595,5.314115 0 0 0 5.25963,5.31441 5.2595,5.314115 0 0 0 5.25911,-5.31441 5.2595,5.314115 0 0 0 -5.25911,-5.31388 z m 6.66006,16.72817 a 20.501822,14.049623 79.583118 0 0 19.70474,2.07068 z" />
     <text
        xml:space="preserve"
-       style="font-size:11.2889px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:47.1523;fill:#a05a2c;stroke-width:0.264583"
+       style="font-size:11.2889px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:47.1523;display:inline;fill:#a05a2c;stroke-width:0.264583"
        x="-169.51163"
        y="-69.307709"
        id="text24"
@@ -465,19 +466,19 @@
          id="tspan34" /></text>
     <text
        xml:space="preserve"
-       style="font-size:9.87777778px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#a05a2c;stroke-width:0.264583"
+       style="font-size:9.87778px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#a05a2c;stroke-width:0.264583"
        x="-38.411503"
        y="15.030587"
        id="text35"><tspan
          sodipodi:role="line"
          id="tspan35"
-         style="stroke-width:0.264583;font-size:9.87777778px"
+         style="font-size:9.87778px;stroke-width:0.264583"
          x="-38.411503"
          y="15.030587">PARALLELOGRAM</tspan><tspan
          sodipodi:role="line"
-         style="stroke-width:0.264583;font-size:9.87777778px"
+         style="font-size:9.87778px;stroke-width:0.264583"
          x="-38.411503"
-         y="29.141712"
+         y="27.37781"
          id="tspan36" /></text>
     <text
        xml:space="preserve"
@@ -525,7 +526,7 @@
          sodipodi:role="line"
          style="stroke-width:0.264583"
          x="-185.37724"
-         y="115.89126"
+         y="115.89125"
          id="tspan42" /></text>
     <text
        xml:space="preserve"
@@ -541,130 +542,130 @@
          sodipodi:role="line"
          style="stroke-width:0.264583"
          x="-101.03896"
-         y="116.72629"
+         y="116.72628"
          id="tspan44" /></text>
     <text
        xml:space="preserve"
-       style="font-size:9.87777778px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#a05a2c;stroke-width:0.264583"
+       style="font-size:9.87778px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#a05a2c;stroke-width:0.264583"
        x="-60.957382"
        y="182.03712"
        id="text45"><tspan
          sodipodi:role="line"
          id="tspan45"
-         style="stroke-width:0.264583;font-size:9.87777778px"
+         style="font-size:9.87778px;stroke-width:0.264583"
          x="-60.957382"
          y="182.03712">CURVILINEAR TRIANGLE</tspan><tspan
          sodipodi:role="line"
-         style="stroke-width:0.264583;font-size:9.87777778px"
+         style="font-size:9.87778px;stroke-width:0.264583"
          x="-60.957382"
-         y="190.85657"
+         y="194.38435"
          id="tspan46" /></text>
     <text
        xml:space="preserve"
-       style="font-size:9.87777778px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#a05a2c;stroke-width:0.264583"
+       style="font-size:9.87778px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#a05a2c;stroke-width:0.264583"
        x="57.617252"
        y="106.04915"
        id="text47"><tspan
          sodipodi:role="line"
          id="tspan47"
-         style="stroke-width:0.264583;font-size:9.87777778px"
+         style="font-size:9.87778px;stroke-width:0.264583"
          x="57.617252"
          y="106.04915">PENTAGON</tspan><tspan
          sodipodi:role="line"
-         style="stroke-width:0.264583;font-size:9.87777778px"
+         style="font-size:9.87778px;stroke-width:0.264583"
          x="57.617252"
-         y="114.8686"
+         y="118.39637"
          id="tspan48" /></text>
     <text
        xml:space="preserve"
-       style="font-size:9.87777778px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#a05a2c;stroke-width:0.264583"
+       style="font-size:9.87778px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#a05a2c;stroke-width:0.264583"
        x="131.93517"
        y="104.37908"
        id="text49"><tspan
          sodipodi:role="line"
          id="tspan49"
-         style="stroke-width:0.264583;font-size:9.87777778px"
+         style="font-size:9.87778px;stroke-width:0.264583"
          x="131.93517"
          y="104.37908">HEXAGON</tspan><tspan
          sodipodi:role="line"
-         style="stroke-width:0.264583;font-size:9.87777778px"
+         style="font-size:9.87778px;stroke-width:0.264583"
          x="131.93517"
-         y="113.19853"
+         y="116.7263"
          id="tspan50" /></text>
     <text
        xml:space="preserve"
-       style="font-size:9.87777778px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#a05a2c;stroke-width:0.264583"
+       style="font-size:9.87778px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#a05a2c;stroke-width:0.264583"
        x="-163.6664"
        y="177.86195"
        id="text51"><tspan
          sodipodi:role="line"
          id="tspan51"
-         style="stroke-width:0.264583;font-size:9.87777778px"
+         style="font-size:9.87778px;stroke-width:0.264583"
          x="-163.6664"
          y="177.86195">NONAGON</tspan><tspan
          sodipodi:role="line"
-         style="stroke-width:0.264583;font-size:9.87777778px"
+         style="font-size:9.87778px;stroke-width:0.264583"
          x="-163.6664"
-         y="186.6814"
+         y="190.20918"
          id="tspan52" /></text>
     <text
        xml:space="preserve"
-       style="font-size:9.87777778px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#a05a2c;stroke-width:0.264583"
+       style="font-size:9.87778px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#a05a2c;stroke-width:0.264583"
        x="-105.21412"
        y="178.69699"
        id="text53"><tspan
          sodipodi:role="line"
          id="tspan53"
-         style="stroke-width:0.264583;font-size:9.87777778px"
+         style="font-size:9.87778px;stroke-width:0.264583"
          x="-105.21412"
          y="178.69699">ELIPSE</tspan><tspan
          sodipodi:role="line"
-         style="stroke-width:0.264583;font-size:9.87777778px"
+         style="font-size:9.87778px;stroke-width:0.264583"
          x="-105.21412"
-         y="187.51643"
+         y="191.04422"
          id="tspan54" /></text>
     <text
        xml:space="preserve"
-       style="font-size:9.87777778px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#a05a2c;stroke-width:0.264583"
+       style="font-size:9.87778px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#a05a2c;stroke-width:0.264583"
        x="-21.71085"
        y="104.37908"
        id="text55"><tspan
          sodipodi:role="line"
          id="tspan55"
-         style="stroke-width:0.264583;font-size:9.87777778px"
+         style="font-size:9.87778px;stroke-width:0.264583"
          x="-21.71085"
          y="104.37908">QUATREFOIL</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:9.87777778px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#a05a2c;stroke-width:0.264583"
+       style="font-size:9.87778px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#a05a2c;stroke-width:0.264583"
        x="54.277126"
        y="184.54222"
        id="text56"><tspan
          sodipodi:role="line"
          id="tspan56"
-         style="stroke-width:0.264583;font-size:9.87777778px"
+         style="font-size:9.87778px;stroke-width:0.264583"
          x="54.277126"
          y="184.54222">PENTAGON</tspan><tspan
          sodipodi:role="line"
-         style="stroke-width:0.264583;font-size:9.87777778px"
+         style="font-size:9.87778px;stroke-width:0.264583"
          x="54.277126"
-         y="193.36166"
+         y="196.88945"
          id="tspan57" /></text>
     <text
        xml:space="preserve"
-       style="font-size:9.87777778px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#a05a2c;stroke-width:0.264583"
+       style="font-size:9.87778px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#a05a2c;stroke-width:0.264583"
        x="130.26509"
        y="181.20209"
        id="text58"><tspan
          sodipodi:role="line"
          id="tspan58"
-         style="stroke-width:0.264583;font-size:9.87777778px"
+         style="font-size:9.87778px;stroke-width:0.264583"
          x="130.26509"
          y="181.20209">HEXAGRAM</tspan><tspan
          sodipodi:role="line"
-         style="stroke-width:0.264583;font-size:9.87777778px"
+         style="font-size:9.87778px;stroke-width:0.264583"
          x="130.26509"
-         y="190.02153"
+         y="193.54932"
          id="tspan59" /></text>
   </g>
 </svg>
